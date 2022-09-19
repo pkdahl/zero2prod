@@ -1,6 +1,11 @@
 # Changelog
 
-## [1.5] - 2022-09-19
+## [1.5.2] - 2022-09-19
+### Added
+- GitHub Actions from [this gist](https://gist.github.com/LukeMathWalker/5ae1107432ce283310c3e601fac915f3)
+  in `.github/workflows`.
+
+## [1.5.1] - 2022-09-19
 ### Added
 - Installed [`tarpaulin`](https://docs.rs/cargo-tarpaulin/latest/cargo_tarpaulin/).
   A code coverage reporting tool.
